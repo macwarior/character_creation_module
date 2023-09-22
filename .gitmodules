@@ -1,0 +1,3 @@
+[submodule "graphics_arts"]
+	path = graphics_arts
+	url = git@github.com:macwarior/graphic_arts.git
